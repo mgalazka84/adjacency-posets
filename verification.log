@@ -1,0 +1,16 @@
+Verified 1092 graphs; 316 lower-bound certificates; {(3, 3): 1, (4, 3): 1, (5, 3): 1, (6, 3): 3, (7, 3): 4, (8, 3): 12, (9, 3): 27, (10, 3): 75, (10, 4): 7, (11, 3): 182, (11, 4): 46, (12, 3): 470, (12, 4): 263}
+Coverage 3 1 OK
+Coverage 4 1 OK
+Coverage 5 1 OK
+Coverage 6 3 OK
+Coverage 7 4 OK
+Coverage 8 12 OK
+Coverage 9 27 OK
+Coverage 10 82 OK
+Coverage 11 228 OK
+Coverage 12 733 OK
+Verified all 70 single-vertex deletion certificates
+Verified the weak-dual counterexample
+Verified all explicit implication chains
+Verified 152 constructive outerpath realizers
+ALL CERTIFICATE CHECKS PASSED

@@ -1,0 +1,6 @@
+order 1 valid chain partitions checked 1
+order 2 valid chain partitions checked 3
+order 3 valid chain partitions checked 18
+order 4 valid chain partitions checked 196
+order 5 valid chain partitions checked 3599
+PASS: 407 naturally labeled posets; 3817 chain partitions; all orders <=5

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite this software using the metadata below."
+type: software
+title: "Adjacency posets of cocomparability graphs and small outerplanar obstructions"
+authors:
+  - family-names: "Gałązka"
+    given-names: "Marek"
+  - family-names: "Wdowicka"
+    given-names: "Hanna"
+version: "1.0.0"
+date-released: "2026-09-22"
+repository-code: "https://github.com/mgalazka84/adjacency-posets"
+url: "https://github.com/mgalazka84/adjacency-posets"
